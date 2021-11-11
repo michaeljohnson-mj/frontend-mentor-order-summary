@@ -67,6 +67,7 @@ h1 {
 }
 
 p {
+  line-height: 22px;
   font-size: 15px;
   margin-top: 20px;
   text-align: center;
